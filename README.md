@@ -14,7 +14,7 @@ There's no time limit to do the exercise but we estimated that it could take aro
 ## Where to get the data:
 
 The data can be fetched from PokeAPI, please check this documentation that contains all the needed information:
-https://pokeapi.co/docs/v2.html
+https://pokeapi.co/docs/v2
 
 ## Structure of the app:
 
