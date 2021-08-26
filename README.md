@@ -38,7 +38,7 @@ The purpose is to play a sound effect associated with each pokemon, the API does
 
 Good luck and thanks for your time! :confetti_ball:
 
-_Mobile's engineering team_
+_Mobile engineering team_
 
 ## Legal notes
 
