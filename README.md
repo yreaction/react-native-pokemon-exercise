@@ -39,3 +39,8 @@ The purpose is to play a sound effect associated with each pokemon, the API does
 Good luck and thanks for your time! :confetti_ball:
 
 _Mobile's engineering team_
+
+## Legal notes
+
+All the results obtained from this exercise will be used for recruitment purposes. The company is not authorised to use it, and you own the copyright of this code. Please, remember that this document and its information are confidential and won’t be reproduced or circulated.
+
